@@ -1,0 +1,23 @@
+{
+  "name": "howto-macro",
+  "version": "0.0.0",
+  "description": "Tutorial on writing macro expanders",
+  "main": "1-expansion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dherman/howto-macro"
+  },
+  "author": "Dave Herman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherman/howto-macro/issues"
+  },
+  "homepage": "https://github.com/dherman/howto-macro",
+  "dependencies": {
+    "sexp": "~0.1.5",
+    "immutable": "~3.7.2"
+  }
+}
